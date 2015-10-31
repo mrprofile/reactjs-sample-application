@@ -23,9 +23,3 @@ This contains the completed environment setup to builid a sample application wit
 5. `npm install -g gulp` - Installs gulp globally. [Why globally?](http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally)
 5. `gulp` - Builds the project and opens your browser. 
 6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
-
-You're now all set to [follow along with the course](http://www.pluralsight.com/author/cory-house)! 
-
-
-##Change Log
-8.20.2015 - Updated to use gulp-open 1.0.0 and browserify 11.0.1 since the course has been updated to use these versions.
